@@ -109,5 +109,3 @@ See `Report.pdf` for:
 ---
 
 
-**Author:** Sarvagya Rastogi (ec24781)
-
